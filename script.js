@@ -1,4 +1,7 @@
 // Texts to show in typewriter animation
+function reload(){
+    location.reload();
+}
 const texts = ["", "\u00A0 \u00A0 \u00A0 \u00A0 नमस्ते", " \u00A0 \u00A0 \u00A0 নমস্কার", "\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Hello"];
 let count = 0;
 let index = 0;
